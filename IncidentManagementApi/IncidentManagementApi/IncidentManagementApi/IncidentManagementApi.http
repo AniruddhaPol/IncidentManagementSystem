@@ -1,0 +1,5 @@
+﻿@IncidentManagementApi_HostAddress = https://localhost:7193
+
+GET {{IncidentManagementApi_HostAddress}}/api/incidents
+
+###
