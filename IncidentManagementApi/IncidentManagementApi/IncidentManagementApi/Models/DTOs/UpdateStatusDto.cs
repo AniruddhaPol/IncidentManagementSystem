@@ -1,0 +1,7 @@
+﻿namespace IncidentManagementApi.Models.DTOs
+{
+    public class UpdateStatusDto
+    {
+        public string Status { get; set; } = "";
+    }
+}
